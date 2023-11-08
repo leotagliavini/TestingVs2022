@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     internal class Ejercicio2
     {
+        public void message (string m)
+        {
+            Console.WriteLine(m + " FUCK YOU");
+        }
     }
 }
